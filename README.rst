@@ -1,3 +1,5 @@
+Credit to  @ranaroussi
+
 Yahoo! Finance market data downloader
 =====================================
 
